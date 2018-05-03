@@ -14,7 +14,7 @@ public class FakeImageFileImpl extends ImageFileImpl {
 
     @Override
     public String getPath() {
-        return "file:///android_asset/atsl-logo.png";
+        return "file:///android_asset/atsllogo.png";
     }
 
     @Override
